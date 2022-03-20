@@ -6,11 +6,11 @@ Counting bights is easy, but counting parts is something I struggled with until 
 
 Bights are the simplest to understand – I think of them as the turning points at the outer edge of a knot or interweave.
 
-![A 5B 7P Turk's Head with numbered bights](./assets/images/count-bights.jpg)
+![A 5B 7P Turk's Head with numbered bights](../assets/images/count-bights.jpg)
 
 ## Parts
 
 To count parts, imagine cutting the knot vertically. Parts are the number of strands you need to cut. Brilliant, right?
 
-![A 5B 7P Turk's Head with numbered bights](./assets/images/count-parts.jpg)
+![A 5B 7P Turk's Head with numbered bights](../assets/images/count-parts.jpg)
 
