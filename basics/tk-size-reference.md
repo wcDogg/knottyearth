@@ -9,7 +9,9 @@ The Turk's Head (Casa)
 * Bights & parts **CANNOT SHARE A MULTIPLE** - 6B 9P shares a multiple of 3.
 * Bights & parts **CANNOT BOTH BE EVEN** because they share a multiple of 2. 
 
-## The Tables
+## Table Information
+
+The tables below are also available as a [Google Sheet](https://docs.google.com/spreadsheets/d/1facctkRGSX8NwOn2dyuawW2CVVifzkHcB-lbSzKBREk/edit?usp=sharing).
 
 * **Bights**: Columns
 * **Parts**: Rows
@@ -20,10 +22,18 @@ The Turk's Head (Casa)
 
 ## 1 to 10 Parts
 
-<div markdown="1">
-  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTtbVxK3nwLSbAXuPysPP5Ld6cFXG1DfnRjUTHUEOAw41rMUQdN2hTx1zn8u54_5eZv9GYV0Tdvrsw7/pubhtml?widget=true&amp;headers=false"></iframe>
-</div>
-
+| **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** | **17** | **18** | **19** | **20** |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+| 1     | --    | --    | --    | --    | --    | --    | --    | --    | --     | --     | --     | --     | --     | --     | --     | --     | --     | --     | --     | -- |
+| 2     | --    | --    | S     | --    | W     | --    | W     | --    | W      | --     | W      | --     | W      | --     | W      | --     | W      | --     | W      | -- |
+| 3     | --    | S     | --    | S     | W     | --    | W     | W     | --     | W      | W      | --     | W      | W      | --     | W      | W      | --     | W      | W  |
+| 4     | --    | --    | S     | --    | S     | --    | W     | --    | W      | --     | W      | --     | W      | --     | W      | --     | W      | --     | W      | -- |
+| 5     | --    | T     | T     | S     | --    | S     | W     | W     | W      | --     | W      | W      | W      | W      | --     | W      | W      | W      | W      | -- |
+| 6     | --    | --    | T     | --    | S     | --    | S     | --    | --     | --     | W      | --     | W      | --     | --     | --     | W      | --     | W      | -- |
+| 7     | --    | T     | T     | T     | T     | S     | --    | S     | W      | W      | W      | W      | W      | --     | W      | W      | W      | W      | W      | W  |
+| 8     | --    | --    | T     | --    | T     | --    | S     | --    | S      | --     | W      | --     | W      | --     | W      | --     | W      | --     | W      | -- |
+| 9     | --    | T     | --    | T     | T     | --    | T     | S     | --     | S      | W      | --     | W      | W      | --     | W      | W      | --     | W      | W  |
+| 10    | --    | --    | T     | --    | --    | --    | T     | --    | S      | --     | S      | --     | W      | --     | --     | --     | W      | --     | W      | -- |
 
 
 ## 11 to 20 Parts
