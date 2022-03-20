@@ -9,7 +9,7 @@ A few years ago, [John Allwine](https://www.facebook.com/freakinsweetknots/) –
 
 ![PK 2-Strand Type I](../assets/images/pk-types/pk_2-strand_type-i.jpg)
 
-### Type II: Black and red are TWO EQUALLY SIZED and STAKED knots. 
+### Type II: Black and red are TWO EQUALLY SIZED and STACKED knots. 
 
 ![PK 2-Strand Type II](../assets/images/pk-types/pk_2-strand_type-ii.jpe)
 
@@ -20,7 +20,7 @@ A few years ago, [John Allwine](https://www.facebook.com/freakinsweetknots/) –
 
 ![PK 3-Strand Type I](../assets/images/pk-types/pk_3-strand_type-i.jpg)
 
-### Type II: Black and red are TWO EQUALLY SIZED and STAKED knots surrounding a smaller purple knot.  
+### Type II: Black and red are TWO EQUALLY SIZED and STACKED knots surrounding a smaller purple knot.  
 
 ![PK 3-Strand Type II](../assets/images/pk-types/pk_3-strand_type-ii.jpe)
 
@@ -35,7 +35,7 @@ A few years ago, [John Allwine](https://www.facebook.com/freakinsweetknots/) –
 
 ![PK 4-Strand Type I](../assets/images/pk-types/pk_4-strand_type-i.jpe)
 
-### Type II: Black and orange are TWO EQUALLY SIZED and STAKED knots surrounding two smaller knots.  
+### Type II: Black and orange are TWO EQUALLY SIZED and STACKED knots surrounding two smaller knots.  
 
 ![PK 4-Strand Type II](../assets/images/pk-types/pk_4-strand_type-ii.jpe)
 
