@@ -1,6 +1,6 @@
-# Knotty Earth
+# knotty.earth
 
-I started tying decorative knots about 7 years ago. I love it because it's a great blend of form, function, math, and creativity. 
+I'm drawn to places where form meets function. And I love the idea of using technical skills to create beautiful things. I started tying decorative knots in 2015 and quickly fell in love. Currently, this is an 'encyclopedia' of my knotting adventures. The ultimate goal is to have a living resource center fueled by contributors. 
 
 ## [Knot Basics](./basics/README.md)
 
