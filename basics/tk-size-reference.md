@@ -11,16 +11,20 @@ The Turk's Head (Casa)
 
 ## The Tables
 
-* **Bights** - Columns
-* **Parts** - Rows
-* **--** - Not possible
-* **S** - Square - Nearly equal bights & parts
-* **T** - Tall - More parts than bights
-* **W** - Wide - More bights than parts
+* **Bights**: Columns
+* **Parts**: Rows
+* **--**: Not possible
+* **S**: Square - nearly equal bights & parts
+* **T**: Tall - more parts than bights
+* **W**: Wide - more bights than parts
 
 ## 1 to 10 Parts
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTtbVxK3nwLSbAXuPysPP5Ld6cFXG1DfnRjUTHUEOAw41rMUQdN2hTx1zn8u54_5eZv9GYV0Tdvrsw7/pubhtml?widget=true&amp;headers=false"></iframe>
+<div markdown="1">
+  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTtbVxK3nwLSbAXuPysPP5Ld6cFXG1DfnRjUTHUEOAw41rMUQdN2hTx1zn8u54_5eZv9GYV0Tdvrsw7/pubhtml?widget=true&amp;headers=false"></iframe>
+</div>
+
+
 
 ## 11 to 20 Parts
 
