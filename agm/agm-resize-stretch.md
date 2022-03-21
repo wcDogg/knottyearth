@@ -16,9 +16,7 @@ Click and drag the bottom-right corner of the interactive image to resize or str
 
 AGM starts in `Resize` mode by default. Resizing changes the number of bights and parts - the details below the image update in real time. 
 
-<video width="320" height="240" controls>
-  <source src="../assets/images/agm/agm_resize.mp4" type="video/mp4">
-</video>
+<iframe width="420" height="315" src="../assets/images/agm/agm_resize.mp4" frameborder="0" allowfullscreen></iframe>
 
 
 ## Stretch
