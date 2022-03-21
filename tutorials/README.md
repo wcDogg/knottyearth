@@ -1,4 +1,7 @@
 # Tutorials
 
-A gallery of knots I've tied with links to instructional content. 
+Beginner-friendly instructional content and my go-to references. 
+
+* [Turk's Head Knot](turks-head.md)
+
 

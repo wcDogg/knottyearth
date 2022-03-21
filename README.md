@@ -17,9 +17,7 @@ Tips, tricks & tutorials for using [Advanced Grid Maker](http://freakinsweetapps
 
 ## [Tutorials](./tutorials/README.md)
 
-A gallery of knots I've tied with links to instructional content. 
-
-* [Hold]()
+* [Turk's Head Knot](./tutorials/turks-head.md)
 * [Hold]() 
 * [Hold]()
 

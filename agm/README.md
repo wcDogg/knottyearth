@@ -28,5 +28,3 @@ These are instructions for specific knots.
 * [AGM: Gaucho Fan & Herringbone Knots]()
 * [AGM: Pineapple Knots]()
 
-
-

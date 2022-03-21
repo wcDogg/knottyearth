@@ -2,7 +2,7 @@
 
 When using Advanced Grid Maker to design a knot, it can be hard to tell if the knot is properly formed. The `Remove Non-Loop Strands` feature is for locating strands where the working end should finish at the standing end but doesn’t.
 
-This feature is especially useful when [resizing](agm-resize-stretch.md) the interactive image because the knot can look properly formed when it's not - `Remove Non-Loop Strands` is how to check.
+This feature is especially useful when [resizing](agm-resize-stretch.md) the interactive image. The knot can look properly formed when it's not - `Remove Non-Loop Strands` is how to check.
 
 ## Single-Strand Example
 

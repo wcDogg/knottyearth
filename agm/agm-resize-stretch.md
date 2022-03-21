@@ -16,6 +16,8 @@ Click and drag the bottom-right corner of the interactive image to resize or str
 
 AGM starts in `Resize` mode by default. Resizing changes the number of bights and parts - the details below the image update in real time. 
 
+When you resize a knot in this way, the image may look like a properly formed knot when it isn't. Use [Remove Non-Loop Strands](agm-remove-non-loop-strands.md) and check the details to ensure the knot is formed the way you expect. 
+
 ![AGM Resize knot feature](../assets/images/agm/agm_resize.gif)
 
 
