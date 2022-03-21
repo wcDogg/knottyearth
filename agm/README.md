@@ -12,6 +12,7 @@ Tips, tricks & tutorials for using Advanced Grid Maker (AGM) to generate knot ty
 These settings can be used across all or most knots. 
 
 * [AGM: Colors & Shadow Colors](agm-colors-shadows.md)
+* [AGM: Resize & Stretch](agm-resize-stretch.md)
 
 
 ## Knots
