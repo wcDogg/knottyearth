@@ -7,7 +7,7 @@ A few years ago, [John Allwine](https://www.facebook.com/freakinsweetknots/) –
 
 ### Type I: Black is ONE LARGE knot surrounding the smaller red knot. 
 
-![PK 2-Strand Type I](../assets/images/pk-types/pk_2-strand_type-i.jpg){:width="200px"}
+![PK 2-Strand Type I](../assets/images/pk-types/pk_2-strand_type-i.jpg){: width="200"}
 
 ### Type II: Black and red are TWO EQUALLY SIZED and STACKED knots. 
 
