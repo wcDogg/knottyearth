@@ -2,6 +2,13 @@
 
 A few years ago, [John Allwine](https://www.facebook.com/freakinsweetknots/) – creator of [Advanced Grid Maker](http://freakinsweetapps.com/knots/knotgrid/advanced.html) – was generous enough to help me learn about the pineapple interweave. Before you can use a tool like AGM, you need to decide how many strands or colors the knot will have and the ‘type’ of pineapple you want to tie. Here’s a quick reference for 2, 3, and 4 strand pineapple types.
 
+## The Big Idea
+
+A Pineapple Knot (PK) is two or more Turk's Head knots interwoven following a specific pattern. The **'type'** of pineapple refers its number of EQALLY SIZED and STACKED Turk's Head knots. These equally sized knots may or may not surround other, smaller Turk's Head knots. 
+
+In the images below, the order of the colors is the same - which highlights how the type is what determines the final look of the knot. 
+
+An idea not shown in the images below is that you can describe a PK as one type surrounding another type. For example, a 5-strand type II has two equally sized TKs surrounding three smaller knots. But how are those three arranged? 
 
 ## 2-Strand Pineapple Knots
 
