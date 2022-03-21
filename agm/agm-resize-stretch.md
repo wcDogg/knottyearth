@@ -23,6 +23,5 @@ AGM starts in `Resize` mode by default. Resizing changes the number of bights an
 
 Change modes by clicking the `Stretch` button. Stretching changes the dimensions of the knot - it does not change the number of bights & parts. 
 
-
 ![AGM Stretch knot feature](../assets/images/agm/agm_stretch.gif)
 
