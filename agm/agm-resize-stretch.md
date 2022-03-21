@@ -16,14 +16,13 @@ Click and drag the bottom-right corner of the interactive image to resize or str
 
 AGM starts in `Resize` mode by default. Resizing changes the number of bights and parts - the details below the image update in real time. 
 
-<iframe width="420" height="315" src="../assets/images/agm/agm_resize.mp4" frameborder="0" allowfullscreen></iframe>
+![AGM Resize knot feature](../assets/images/agm/agm_resize.gif)
 
 
 ## Stretch
 
 Change modes by clicking the `Stretch` button. Stretching changes the dimensions of the knot - it does not change the number of bights & parts. 
 
-<video width="" height="" controls>
-  <source src="../assets/images/agm/agm_stretch.mp4" type="video/mp4">
-</video>
+
+![AGM Stretch knot feature](../assets/images/agm/agm_stretch.gif)
 
