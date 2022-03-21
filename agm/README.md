@@ -13,6 +13,7 @@ These settings can be used across all or most knots.
 
 * [AGM: Colors & Shadow Colors](agm-colors-shadows.md)
 * [AGM: Resize & Stretch](agm-resize-stretch.md)
+* [AGM: Strand Width & Strand Gap](agm-strand-width-gap.md)
 
 
 ## Knots
