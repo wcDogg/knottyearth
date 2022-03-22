@@ -5,6 +5,7 @@ I'm drawn to places where form meets function. And I love the idea of using tech
 
 ## [Knot Basics](./basics/README.md)
 
+* [How to Read Knot Instructions](./basics/read-knot-instructions.md)
 * [How to Count Bights & Parts](./basics/count-bights-parts.md)
 * [Turk's Head Size Reference](./basics/turks-head-size-reference.md) 
 * [Pineapple Knot Type Reference](./basics/pineapple-type-reference.md)
