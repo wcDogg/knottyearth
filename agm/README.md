@@ -24,7 +24,7 @@ These features can be used across all knots.
 
 These are instructions for specific knots.  
 
-* [AGM: Turk's Head Knots]()
-* [AGM: Gaucho Fan & Herringbone Knots]()
-* [AGM: Pineapple Knots]()
+* [AGM: Turk's Head Knots](agm-turks-head.md)
+* [AGM: Gaucho Fan & Herringbone Knots](agm-gaucho-herringbone.md)
+* [AGM: Pineapple Knots](agm-pineapple.md)
 

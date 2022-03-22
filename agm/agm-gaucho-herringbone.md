@@ -8,7 +8,7 @@ This tutorial is best if you are already familiar with the basic AGM features an
 
 The image below highlights the settings needed for both knots.
 
-![](../assets/images/agm/agm_gaucho-herringbone_02.jpg)
+![](../assets/images/agm/agm_gaucho-herringbone_01.jpg)
 
 
 ## Bights & Parts
