@@ -4,6 +4,7 @@ The Turk's Head (Casa) knot is one of first decorative knots new tyers learn - i
 
 The size of a Turk's Head knot is described in [bights and parts (leads)](count-bights-parts.md). There are a few simple rules that govern the bight-part combinations a Turk's Head can have. 
 
+
 ## The Rules
 
 * Bights & parts **CANNOT BE EQUAL** - 5B 5P. 
@@ -11,16 +12,18 @@ The size of a Turk's Head knot is described in [bights and parts (leads)](count-
 * Bights & parts **CANNOT SHARE A MULTIPLE** - 6B 9P shares a multiple of 3.
 * Bights & parts **CANNOT BOTH BE EVEN** because they share a multiple of 2. 
 
+
 ## Table Information
 
 The tables below are also available as a [Google Sheet](https://docs.google.com/spreadsheets/d/1facctkRGSX8NwOn2dyuawW2CVVifzkHcB-lbSzKBREk/edit?usp=sharing).
 
-* **Bights**: Columns
-* **Parts**: Rows
-* **--**: Not possible
-* **S**: Square - nearly equal bights & parts
-* **T**: Tall - more parts than bights
-* **W**: Wide - more bights than parts
+* `Bights`: Columns
+* `Parts`: Rows
+* `--`: Not possible
+* `S`: Square - nearly equal bights & parts
+* `T`: Tall - more parts than bights
+* `W`: Wide - more bights than parts
+
 
 ## 1 to 10 Parts
 
@@ -37,6 +40,7 @@ The tables below are also available as a [Google Sheet](https://docs.google.com/
 | 9  | -- | T  | -- | T  | T  | -- | T  | S  | -- | S  | W  | -- | W  | W  | -- | W  | W  | -- | W  | W  |
 | 10 | -- | -- | T  | -- | -- | -- | T  | -- | S  | -- | S  | -- | W  | -- | -- | -- | W  | -- | W  | -- |
 
+
 ## 11 to 20 Parts
 
 | **1**  | 2  | **3**  | 4  | **5**  | 6  | **7**  | 8  | 9  | 10 | **11** | 12 | **13** | 14 | 15 | 16 | **17** | 18 | **19** | 20 |
@@ -51,6 +55,7 @@ The tables below are also available as a [Google Sheet](https://docs.google.com/
 | 18 | -- | -- | -- | -- | -- | -- | T | -- | -- | -- | T  | -- | T  | -- | -- | -- | S  | -- | S  | -- |
 | **19** | -- | T  | T  | T  | T  | T  | T | T  | T  | T  | T  | T  | T  | T  | T  | T  | T  | S  | -- | S  |
 | 20 | -- | -- | T  | -- | -- | -- | T | -- | T  | -- | T  | -- | T  | -- | -- | -- | T  | -- | S  | -- |
+
 
 ## 21 to 30 Parts
 
