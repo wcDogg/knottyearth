@@ -49,8 +49,8 @@ From D3   U1 O2U2 O2U2 O3   to B1
 Column Coding: OUUO
 Colors: Black DodgerBlue
 Pineapple Grid
-Nested Bights: 2
-Shifted Bights: 1
+  Nested Bights: 2
+  Shifted Bights: 1
 Image Rows: 17
 Image Columns: 12
 Image Parts: 14
@@ -96,4 +96,3 @@ OUUOOUUOOUUO
 OUUOOUUOOUUO
 OUUOOUUOOUUO
 ```
-
