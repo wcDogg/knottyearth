@@ -16,6 +16,11 @@ I'm drawn to places where form meets function. And I love the idea of using tech
 Tips, tricks & tutorials for using [Advanced Grid Maker](http://freakinsweetapps.com/knots/knotgrid/advanced.html) (AGM) to generate knot tying instructions, reference images, and size estimates. 
 
 
+## [Pineapple Knot Cookbook](./pk-cookbook/README.md)
+
+Instructions & reference images for 2, 3, and 4 color Pineapple knots. 
+
+
 ## [Tutorials](./tutorials/README.md)
 
 * [Turk's Head Knot](./tutorials/turks-head.md)
