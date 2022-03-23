@@ -43,6 +43,20 @@ From B2   U2 O1U2 O2U1 O2U2 O1U2 O2U1 O2U2 O1U2 O2     to D1
 From D1   U1 O2U3 O1U2 O2U2 O2U2 O2U2 O2U2 O2U2 O2U1   to B1
 ```
 
+## AGM Settings
+
+```
+Column Coding: OUUO
+Colors: Black DodgerBlue
+Pineapple Grid
+Nested Bights: 2
+Shifted Bights: 1
+Image Rows: 37
+Image Columns: 12
+Image Parts: 34
+Image Bights: 6
+```
+
 ## AGM Knot Data
 
 ```
