@@ -20,7 +20,3 @@
 ```
 
 ```
-
-## AGM Settings
-
-![](../assets/images/pk-cookbook/)

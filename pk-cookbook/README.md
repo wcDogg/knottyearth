@@ -22,20 +22,18 @@ Even though I built a career around organizing content, deciding how to name and
 
 * [PK : 2 Strands : 3B 5P : Type I](pk_2-strand_3b-5p_type-i.md)
 * [PK : 2 Strands : 3B 5P : Type II](pk_2-strand_3b-5p_type-ii.md)
-* [PK : 2 Strands : 3B 7P : Type I](pk_2-strand_3b-7p_type-i.md)
 * [PK : 2 Strands : 3B 7P : Type II](pk_2-strand_3b-7p_type-ii.md)
 * [PK : 2 Strands : 3B 11P : Type I](pk_2-strand_3b-11p_type-i.md)
 * [PK : 2 Strands : 3B 11P : Type II](pk_2-strand_3b-11p_type-ii.md)
-* [PK : 2 Strands : 3B 13P : Type I](pk_2-strand_3b-13p_type-i.md)
 * [PK : 2 Strands : 3B 13P : Type II](pk_2-strand_3b-13p_type-ii.md)
-* [PK : 2 Strands : 3B 17P : Type I](pk_2-strand_3b-17p_type-i.md)
 * [PK : 2 Strands : 3B 17P : Type II](pk_2-strand_3b-17p_type-ii.md)
+* [PK : 2 Strands : 3B 19P : Type I](pk_2-strand_3b-19p_type-i.md)
+* [PK : 2 Strands : 3B 19P : Type II](pk_2-strand_3b-19p_type-ii.md)
 * [PK : 2 Strands : 3B 23P : Type I](pk_2-strand_3b-23p_type-i.md)
 * [PK : 2 Strands : 3B 23P : Type II](pk_2-strand_3b-23p_type-ii.md)
-* [PK : 2 Strands : 3B 25P : Type I](pk_2-strand_3b-25p_type-i.md)
 * [PK : 2 Strands : 3B 25P : Type II](pk_2-strand_3b-25p_type-ii.md)
-* [PK : 2 Strands : 3B 29P : Type I](pk_2-strand_3b-29p_type-i.md)
 * [PK : 2 Strands : 3B 29P : Type II](pk_2-strand_3b-29p_type-ii.md)
+* [PK : 2 Strands : 3B 31P : Type I](pk_2-strand_3b-31p_type-i.md)
 
 **4 Nested Bights**
 * []()

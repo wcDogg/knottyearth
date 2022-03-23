@@ -1,4 +1,4 @@
-# Pineapple Knot : 2 Strands : 3B 12P : Type I  
+# Pineapple Knot : 2 Strands : 3B 31P : Type I  
 
 ![](../assets/images/pk-cookbook/)
 
@@ -20,7 +20,3 @@
 ```
 
 ```
-
-## AGM Settings
-
-![](../assets/images/pk-cookbook/)
