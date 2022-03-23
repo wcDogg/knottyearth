@@ -1,6 +1,6 @@
 # Pineapple Knot : 2 Strands : 3B 11P : Type I  
 
-![](../assets/images/pk-cookbook/pk_2-strand_3b-11p_type-i)
+![](../assets/images/pk-cookbook/pk_2-strand_3b-11p_type-i.png)
 
 
 ## Un-Consolidated Instructions
