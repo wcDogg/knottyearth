@@ -1,26 +1,4 @@
 # Pineapple Knot : 2 Strands : 3B 7P : Type I  
 
-![](../assets/images/pk-cookbook/)
+DOES NOT EXIST
 
-
-## Un-Consolidated Instructions
-
-```
-
-```
-
-## Consolidated Instructions
-
-```
-
-```
-
-## AGM Knot Data
-
-```
-
-```
-
-## AGM Settings
-
-![](../assets/images/pk-cookbook/)
