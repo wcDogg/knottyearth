@@ -45,7 +45,7 @@ If you `Resize` the knot in this way, use [Remove Non-Loop Strands](./agm-remove
 
 The image below shows the 2 types of instructions AGM can generate by toggling the `Consolidate overs and unders` checkbox. These instructions are for a 7B 15P Turk's Head.  
 
-* The un-consolidated instructions on the left provide good visual cues about how far it is to the next crossing. 
+* The Dotted instructions on the left provide good visual cues about how far it is to the next crossing. 
 * The consolidated instructions on the right make it clearer that the first move from `A1` to `B1` requires going around the mandrel or board 1 time.  
 
 To learn more, see [How to Read Knot Instructions](../basics/read-knot-instructions.md). 

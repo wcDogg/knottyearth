@@ -10,6 +10,6 @@ The remainder of this topic explains how to plug in values from this sheet. But 
 
 * A reference image of the knot.
 * A screenshot of the AGM settings. 
-* Knot instructions in un-consolidated format.
+* Knot instructions in Dotted format.
 * Knot instructions in consolidated format. 
 * The AGM `Save/Load Knot Data`. 

@@ -19,7 +19,7 @@ Instructions from ***Turk's Head Cookbook*** by Don Burrhus.
 ![Instructions from 'Turk's Head Cookbook](../assets/images/agm//instructions_thk-7l-6b_cookbook-style.jpg)
 
 
-## AGM Style Un-Consolidated Instructions
+## AGM Style Dotted Instructions
 
 ```
 From A1      . . . . . .      to B4
