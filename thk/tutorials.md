@@ -1,13 +1,6 @@
-# Turks Head Knot
+# Turk's Head Knot Tutorials
 
-The Turk's Head or Casa knot is usually one of the first decorative knots new tyers learn - they're beautiful, functional, and easy to understand. They're also the foundation for interweaves like the Pineapple, Herringbone, and Gaucho Fan.  
-
-Here are beginner-friendly videos highlighting different ways to tie the Turk's Head knot. 
-
-## Other Resources
-
-* [Basics: Turk's Head Size Reference](../basics/turks-head-size-reference.md) - Learn what bight-part combinations are and aren't possible.  
-* [AGM: Turk's Head Knots](../agm/agm-turks-head) - Generate your own size-specific instructions and images. 
+Here are beginner-friendly videos highlighting different ways to tie Turk's Head Knots. 
 
 ## 3L 5B - In Hand - Doubled Boy Scout Woggle
 

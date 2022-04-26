@@ -1,27 +1,31 @@
 # Turk's Head Size Reference 
 
-The Turk's Head (Casa) knot is one of first decorative knots new tyers learn - it's beautiful, functional, and easy to understand. And it's the foundation for interweaves like the Pineapple, Herringbone, and Gaucho Fan knots. 
+The Turk's Head Knot (THK) is one of first decorative knots new tyers learn - it's beautiful, functional, and easy to understand. And it's the foundation for interweaves including: Pineapple, Herringbone, Gaucho Fan, and custom designs.
 
-The size of a Turk's Head knot is described in [bights and parts (leads)](count-bights-parts.md). There are a few simple rules that govern the bight-part combinations a Turk's Head can have. 
+### Bights, Parts, Crossings, Facets
 
+The THK is a single-strand, closed-loop knot - its standing and working ends meet to form a 'loop'. The most familiar way of describing the size of a THK is as some number of bights & parts. The number of crossings & facets are also common descriptors. 
 
-## The Rules
+The image below is a THK with X bights, X parts, X crossings, and X facets. 
 
-* Bights & parts `CANNOT BE EQUAL` - 5B 5P. 
-* A `PRIME NUMBER` of bights & parts is always possible - except for equal numbers - 5B 7P.
-* Bights & parts `CANNOT SHARE A MULTIPLE` - 6B 9P shares a multiple of 3.
-* Bights & parts `CANNOT BOTH BE EVEN` because they share a multiple of 2. 
+![]()
 
+### Columns, Rows, Coding, Pattern
 
-## Table Information
+Knots are a mathematical entities. A knot has some number of rows & columns. It has a specific, repeating over-under pattern. It's pattern is either row coded or column coded.  These properties combine in ways that determine if a knot is mathematically possible. 
 
-* `Bights`: Columns
-* `Parts`: Rows
-* `n`: Prime number
-* `--`: Not possible
-* `S`: Square - nearly equal bights & parts
-* `T`: Tall - more parts than bights
-* `W`: Wide - more bights than parts
+At the end of this book are tables detailing the properties of both THKs and PKs. What's functionally important is that to create an interweave like the PK, you have to start with a mathematically possible THK. 
+
+### One Easy Rule
+
+For a THK to be mathematically possible, the LCD or GCF for the number of bights & parts must be 1. 
+
+That's a fancy way of saying that the number of **bights & parts cannot share a common multiple**. For example:
+
+* Bights & parts cannot both be even because they're both multiples of 2. 
+* A 6B 9P THK is not possible because 6 and 9 are both multiples of 3. 
+* A prime number of bights & parts is always possible - except for equal numbers.
+ 
 
 
 ## 1 to 10 Parts
