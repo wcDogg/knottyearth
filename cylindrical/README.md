@@ -7,7 +7,7 @@ Knots are technical, mathematical things. While I'm fascinated by that and am ac
 And study you must. Keep tying, keep looking, and things come together :)
 
 * [Knot vs Interweave](knot-vs-interweave.md)
-* [Column & Row Coding](column-row-coding.md)
+* [Columns, Rows, and Coding](column-row-coding.md)
 * [Over-Under Pattern](over-under-pattern.md)
 * [Bights & Parts](bights-parts.md)
 * [Crossings & Facets](crossings-facets.md)

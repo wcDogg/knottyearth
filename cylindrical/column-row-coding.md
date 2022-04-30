@@ -1,8 +1,31 @@
-# Column Coding & Row Coding
+# Columns, Rows, and Coding
 
-A knot is ether column coded or row coded. The size of a cylindrical knot can be described as having some number columns & rows. 
+Cylindrical knots are designed on a grid. The size of a knot can be described as having some number columns & rows. A knot is ether column coded or row coded. 
 
-Row and column coding are at the heart of a knot's structure. I haven't fully internalized the concepts. What follows are visual examples and layperson's way of recognizing which is being used - I hope they help :)
+Columns, rows, and coding are key to a knot's structure - understanding them can help you: 
+
+* Determine if a knot you want to tie is possible and if not, find the nearest one that is. 
+* Look at completed knots and deconstruct them.
+* Start with a certain size Turk's Head in mind and go from there. 
+
+I never thought I'd get it and I'm still learning. I'm also happy to say that the math underpinning cylindrical knots isn't complicated. What follows are visual examples and a layperson's way of recognizing things - I hope they help.
+
+## How to Count Columns & Rows
+
+A cylindrical knot has 2 columns for each bight. This knot has 9 bights and 18 columns.
+
+![](../assets/cylindrical/count_columns.png)
+
+
+For Fan Knots, rows = parts + 1. This knot has 15 parts and 16 rows. 
+
+![](../assets/cylindrical/count_rows.png)
+
+The math is a little different for Pineapples & other knots with [nested & shifted bights](). 
+
+
+
+
 
 ## Column Coding
 
@@ -15,18 +38,6 @@ This is a 3-strand Fan with column coding - often called Herringbone. The triang
 This is a 3-strand Fan with row coding - often called Gaucho. The triangles are pointing to the right. The triangle bases are vertical and span rows. 
 
 ![](../assets/cylindrical/coding_code-row.png)
-
-## How to Count Columns
-
-For Fan Knots, columns = bights * 2. The math is a little different for Pineapples & other knots with nested & shifted bights. This knot has 9 bights and 18 columns.
-
-![](../assets/cylindrical/count_columns.png)
-
-## How to Count Rows
-
-For Fan Knots, rows = parts + 1. Again, the math is a little different for Pineapples & other knots with nested & shifted bights. This knot has 15 parts and 16 rows. 
-
-![](../assets/cylindrical/count_rows.png)
 
 ## Look Close
 
