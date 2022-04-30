@@ -16,16 +16,9 @@ A cylindrical knot has 2 columns for each bight. This knot has 9 bights and 18 c
 
 ![](../assets/cylindrical/count_columns.png)
 
-
-For Fan Knots, rows = parts + 1. This knot has 15 parts and 16 rows. 
+For TH and Fan Knots, rows = parts + 1. This knot has 15 parts and 16 rows. The math is different for knots with [nested bights and shifted parts](nested-shifted.md).
 
 ![](../assets/cylindrical/count_rows.png)
-
-The math is a little different for Pineapples & other knots with [nested & shifted bights](). 
-
-
-
-
 
 ## Column Coding
 
@@ -41,13 +34,19 @@ This is a 3-strand Fan with row coding - often called Gaucho. The triangles are 
 
 ## Look Close
 
-This is just something I find interesting - it's a study in the similarities and differences between row & column coding.
+The 3-strand knots below use a simple OU pattern. The left is row coded and the right is column coded. Starting in the upper-left corner, notice that: 
 
-The knot on the left is row coded. The knot on the right is column coded, rotated 90 degrees CV, and flipped vertically. They're very similar - if tied with a single strand, they'd be hard to tell apart. But by adding color and expanding the gaps, we see the paths are different. 
-
-![](../assets/cylindrical/coding_look-close_gaucho.png)
-
-The 3-strand knots below uses a simple OU pattern. The left is row coded and the right is column coded. Even without rotating or flipping, they are similar. Again, tied with a single strand they'd be difficult to distinguish and it's the color & gaps that highlight the different paths. 
+* With row coding, the upper bights start as overs. 
+* With column coding, the upper bights start as unders. 
+* If you separated the strands, each would be a mathematically possible Turk's Head.
 
 ![](../assets/cylindrical/coding_look-close_ou.png)
+
+I've seen more than one post that describes row coding as column coding rotated 90 degrees. While the visual effect may be similar, I don't believe the description is accurate - and may be misleading in a way that hurts our understanding. 
+
+In the image below, the knot on the left is row coded. The knot on the right is column coded, rotated 90 degrees clockwise, and flipped vertically. They're very similar - if tied with a single strand, they'd be hard to tell apart. But by adding color and expanding the gaps, we see the paths are different. 
+
+An easy way to see this is to follow the path of the lightest strand. On the left it stays between the dark and medium strands. On the right it alternates. 
+
+![](../assets/cylindrical/coding_look-close_gaucho.png)
 
