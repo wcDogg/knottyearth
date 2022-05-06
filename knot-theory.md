@@ -8,7 +8,7 @@ Knot theory is the study of mathematical knots. Knot theory is used in encryptio
 
 * A **real-world knot** has open ends - think of tying your shoelace. 
 * A **mathematical knot** is the smooth embedding of a circle into 3-dimensional space - its ends are joined. 
-* The simplest mathematical knot is the circle.
+* In knot theory, the circle is the **unknot**.
 
 Mathematical knots cannot be unknotted (returned to a circle) without cutting - and there are an infinite number of them. Imagine joining the standing and working ends of a completed THK. No amount of manipulation can deconstruct the THK into a circle - the only option is to cut and unweave from one end. 
 

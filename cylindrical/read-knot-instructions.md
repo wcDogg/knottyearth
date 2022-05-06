@@ -19,37 +19,37 @@ Instructions from ***Turk's Head Cookbook*** by Don Burrhus.
 ![Instructions from 'Turk's Head Cookbook](../assets/images/agm//instructions_thk-7l-6b_cookbook-style.jpg)
 
 
-## AGM Style Dotted Instructions
+## AGM Dotted Style Instructions
 
 ```
-From A1      . . . . . .      to B4
-From B4      . . . . . O      to A2
-From A2      . . . . . O      to B5
-From B5      . . . . U O      to A3
-From A3      . . . . U O      to B6
-From B6      . . . O U O      to A4
-From A4      . . . O U O      to B1
-From B1      . . U O U O      to A5
-From A5      . . U O U O      to B2
-From B2      . O U O U O      to A6
-From A6      . O U O U O      to B3
-From B3      U O U O U O      to A1
+From A1   . . . . . .   to B4
+From B4   . . . . . O   to A2
+From A2   . . . . . O   to B5
+From B5   . . . . U O   to A3
+From A3   . . . . U O   to B6
+From B6   . . . O U O   to A4
+From A4   . . . O U O   to B1
+From B1   . . U O U O   to A5
+From A5   . . U O U O   to B2
+From B2   . O U O U O   to A6
+From A6   . O U O U O   to B3
+From B3   U O U O U O   to A1
 ```
 
-## AGM Style Consolidated Instructions
+## AGM Consolidated Style Instructions
 
 ```
 From A1           to B4
-From B4      O1      to A2
-From A2      O1      to B5
-From B5      U1 O1      to A3
-From A3      U1 O1      to B6
-From B6      O1U1 O1      to A4
-From A4      O1U1 O1      to B1
-From B1      U1 O1U1 O1      to A5
-From A5      U1 O1U1 O1      to B2
-From B2      O1U1 O1U1 O1      to A6
-From A6      O1U1 O1U1 O1      to B3
-From B3      U1 O1U1 O1U1 O1      to A1
+From B4   O1      to A2
+From A2   O1      to B5
+From B5   U1 O1   to A3
+From A3   U1 O1   to B6
+From B6   O1U1 O1      to A4
+From A4   O1U1 O1      to B1
+From B1   U1 O1U1 O1   to A5
+From A5   U1 O1U1 O1   to B2
+From B2   O1U1 O1U1 O1      to A6
+From A6   O1U1 O1U1 O1      to B3
+From B3   U1 O1U1 O1U1 O1   to A1
 ```
 
