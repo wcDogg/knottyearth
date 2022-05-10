@@ -13,14 +13,16 @@ As a technical writer, I know the importance of using words accurately. And this
 
 ## Contents
 
-[Knot Theory]()
+### [Knot Theory](.general/knot-theory.md)
 
-[Cylindrical Knot Basics](./cylindrical/README.md)
+### [Cylindrical Knot Basics](./cylindrical/README.md)
+
+A practical guide to the properties shared by cylindrical knots including Turk's Head, Fan, and Pineapple. 
 
 * [Knot vs Interweave](./cylindrical/knot-vs-interweave.md)
 * [Bights, Parts, Crossings, Facets](./cylindrical/bights-parts-crossings-facets.md)
 * [Columns, Rows, and Coding](./cylindrical/column-row-coding.md)
-* Nested and Shifted Bights (WIP)
+* [Nested & Shifted Bights](./cylindrical/nested-shifted.md)
 * [Over-Under Pattern](./cylindrical/over-under-pattern.md)
-* [How to Read Knot Instructions](./cylindrical/read-knot-instructions.md)
+* [How to Read Cylindrical Knot Instructions](./cylindrical/cylindrical-instructions.md)
 

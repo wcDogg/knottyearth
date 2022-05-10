@@ -1,4 +1,4 @@
-# How to Read Knot Instructions
+# How to Read Cylindrical Knot Instructions
 
 I'm a person who needs exact instructions to tie any knot. When I first started, I had a hard time understanding how to read the different types of instructions I came across. I kept struggling until one day I committed to figuring out how it works. 
 
