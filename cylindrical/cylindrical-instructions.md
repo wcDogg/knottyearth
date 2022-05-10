@@ -16,7 +16,7 @@ It's not as hard as I thought it would be, and it let me start doing more comple
 
 Instructions from ***Turk's Head Cookbook*** by Don Burrhus. 
 
-![Instructions from Turk's Head Cookbook](../assets/images/agm//instructions_thk-7l-6b_cookbook-style.jpg)
+![Instructions from Turk's Head Cookbook](../assets/images/instructions_thk-7l-6b_cookbook-style.jpg)
 
 
 ## AGM Dotted Style Instructions
