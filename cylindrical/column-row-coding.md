@@ -36,10 +36,11 @@ This is a 3-strand Fan with row coding - often called Gaucho. The triangles are 
 
 ## Look Close
 
-The 3-strand knots below use a simple OU pattern. The left is row coded and the right is column coded. Starting in the upper-left corner, notice that: 
+The 3-strand knots below use a simple OU pattern. The left is row coded and the right is column coded. Starting in the upper-left corner, notice: 
 
-* With row coding, the upper bights start as overs. 
-* With column coding, the upper bights start as unders. 
+* With row coding (left), the upper bights start as overs. 
+* With column coding (right), the upper bights start as unders. 
+* The direction of crossings and facets is reversed.
 * If you separated the strands, each would be a mathematically possible Turk's Head.
 
 ![](../assets/images/coding_look-close_ou.png)
