@@ -12,13 +12,13 @@ I never thought I'd get it and I'm still learning. I'm also happy to say that th
 
 ## Columns
 
-A cylindrical knot has 2 columns for each bight. This knot has 9 bights and 18 columns.
+A cylindrical knot has 2 columns for each bight. This knot has 5 bights and 10 columns.
 
 ![](../assets/images/count-columns.png)
 
 ## Rows
 
-For TH and Fan Knots, rows = parts + 1. This knot has 15 parts and 16 rows. The math is different for knots with [nested bights and shifted parts](nested-shifted.md).
+For TH and Fan Knots, rows = parts + 1. This knot has 7 parts and 8 rows. The math is different for knots with [nested bights and shifted parts](nested-shifted.md).
 
 ![](../assets/images/count-rows.png)
 
