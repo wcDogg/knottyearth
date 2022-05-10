@@ -33,9 +33,9 @@ This is different from making 'passes' which have their own paths. And its diffe
 
 This is a Gaucho Fan Knot - it's tied with 1 strand that makes 3 passes. 
 
-![](../assets/cylindrical/knot-vs-interweave_knot.png)
+![](../assets/images/knot-vs-interweave_knot.png)
 
 This is a Gaucho Fan interweave - it's tied with 3 strands that make 1 pass each.
 
-![](../assets/cylindrical/knot-vs-interweave_interweave.png)
+![](../assets/images/knot-vs-interweave_interweave.png)
 

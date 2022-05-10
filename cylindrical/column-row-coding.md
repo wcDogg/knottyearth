@@ -10,27 +10,29 @@ Columns, rows, and coding are key to a knot's structure - understanding them can
 
 I never thought I'd get it and I'm still learning. I'm also happy to say that the math underpinning cylindrical knots isn't complicated. What follows are visual examples and a layperson's way of recognizing things - I hope they help.
 
-## How to Count Columns & Rows
+## Columns
 
 A cylindrical knot has 2 columns for each bight. This knot has 9 bights and 18 columns.
 
-![](../assets/cylindrical/count_columns.png)
+![](../assets/images/count_columns.png)
+
+## Rows
 
 For TH and Fan Knots, rows = parts + 1. This knot has 15 parts and 16 rows. The math is different for knots with [nested bights and shifted parts](nested-shifted.md).
 
-![](../assets/cylindrical/count_rows.png)
+![](../assets/images/count_rows.png)
 
 ## Column Coding
 
 This is a 3-strand Fan with column coding - often called Herringbone. The triangles are pointing up. The triangle bases are horizontal and span columns.
 
-![](../assets/cylindrical/coding_code-col.png)
+![](../assets/images/coding_code-col.png)
 
 ## Row Coding
 
 This is a 3-strand Fan with row coding - often called Gaucho. The triangles are pointing to the right. The triangle bases are vertical and span rows. 
 
-![](../assets/cylindrical/coding_code-row.png)
+![](../assets/images/coding_code-row.png)
 
 ## Look Close
 
@@ -40,7 +42,7 @@ The 3-strand knots below use a simple OU pattern. The left is row coded and the 
 * With column coding, the upper bights start as unders. 
 * If you separated the strands, each would be a mathematically possible Turk's Head.
 
-![](../assets/cylindrical/coding_look-close_ou.png)
+![](../assets/images/coding_look-close_ou.png)
 
 I've seen more than one post that describes row coding as column coding rotated 90 degrees. While the visual effect may be similar, I don't believe the description is accurate - and may be misleading in a way that hurts our understanding. 
 

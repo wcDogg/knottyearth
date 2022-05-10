@@ -2,7 +2,7 @@
 
 I'm a person who needs exact instructions to tie any knot. When I first started, I had a hard time understanding how to read the different types of instructions I came across. I kept struggling until one day I committed to figuring out how it works. 
 
-I did it using a 7L 6B Turk's Head tied on a mandrel. I followed a video to tie the knot and compared each step to 3 different types of instructions. And I just kept looking until I got it. 
+I did it using a 6B 7P Turk's Head tied on a mandrel. I followed a video to tie the knot and compared each step to 3 different types of instructions. And I just kept looking until I got it. 
 
 It's not as hard as I thought it would be, and it let me start doing more complex knots. What follows is everything you need to try the same exercise - happy tying!
 
@@ -16,7 +16,7 @@ It's not as hard as I thought it would be, and it let me start doing more comple
 
 Instructions from ***Turk's Head Cookbook*** by Don Burrhus. 
 
-![Instructions from 'Turk's Head Cookbook](../assets/images/agm//instructions_thk-7l-6b_cookbook-style.jpg)
+![Instructions from Turk's Head Cookbook](../assets/images/agm//instructions_thk-7l-6b_cookbook-style.jpg)
 
 
 ## AGM Dotted Style Instructions
