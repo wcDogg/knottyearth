@@ -50,5 +50,5 @@ In the image below, the knot on the left is row coded. The knot on the right is 
 
 An easy way to see this is to follow the path of the lightest strand. On the left it stays between the dark and medium strands. On the right it alternates. 
 
-![](../assets/cylindrical/coding_look-close_gaucho.png)
+![](../assets/images/coding_look-close_gaucho.png)
 
