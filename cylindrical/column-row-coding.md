@@ -14,13 +14,13 @@ I never thought I'd get it and I'm still learning. I'm also happy to say that th
 
 A cylindrical knot has 2 columns for each bight. This knot has 9 bights and 18 columns.
 
-![](../assets/images/count_columns.png)
+![](../assets/images/count-columns.png)
 
 ## Rows
 
 For TH and Fan Knots, rows = parts + 1. This knot has 15 parts and 16 rows. The math is different for knots with [nested bights and shifted parts](nested-shifted.md).
 
-![](../assets/images/count_rows.png)
+![](../assets/images/count-rows.png)
 
 ## Column Coding
 
