@@ -7,9 +7,13 @@ I'm drawn to places where form meets function. And I love the idea of using tech
 As a technical writer, I know the importance of using words accurately. And this sometimes goes against my number one goal which is to communicate effectively. For example, there is a difference between a knot and an interweave. When the difference matters, I'm specific. All other times I follow these conventions: 
 
 * I use **knots** to mean both knots and interweaves. 
+* I use **strands** to mean both strands and passes.
 * I use **bights** and **parts** (not bights and leads). 
-* I always list bights first. It's easier to group knots this way, both for me and the computer. 
-* I use **strands** to mean both strands and passes. 
+
+Because of the way numbers work in tables and file names, these conventions help organize knots in a sensible way: 
+
+* I always list bights first. 
+* Pineapple types are usually notated using Roman numerals (I, II, III). I use Arabic numerals (1, 2, 3). 
 
 ## Contents
 
