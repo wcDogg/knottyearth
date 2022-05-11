@@ -48,13 +48,19 @@ A type 3 Pineapple has 3 equally sized and stacked THKs. Notice the smaller THK 
 
 ## 2-Strand (Pass)
 
+Type 1, 2
+
 ![](../assets/images/pk_2-strands.png)
 
 ## 3-Strand (Pass)
 
+Type 1, 2, 3
+
 ![](../assets/images/pk_3-strands.png)
 
 ## 4-Strand (Pass)
+
+Type 1, 2, 3, 4
 
 ![](../assets/images/pk_4-strands.png)
 
