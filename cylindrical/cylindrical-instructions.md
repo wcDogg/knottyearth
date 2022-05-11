@@ -4,7 +4,7 @@ I'm a person who needs exact instructions to tie any knot. When I first started,
 
 I did it using a 6B 7P Turk's Head tied on a mandrel. I followed a video to tie the knot and compared each step to 3 different types of instructions. And I just kept looking until I got it. 
 
-It's not as hard as I thought it would be, and it let me start doing more complex knots. What follows is everything you need to try the same exercise - happy tying!
+It's not as hard as I thought it would be and it let me start doing more complex knots. What follows is everything you need to try the same exercise - happy tying!
 
 ## Video
 
