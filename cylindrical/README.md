@@ -1,4 +1,4 @@
-# Cylindrical Knot Basics
+# Cylindrical Knots
 
 One way to become a better tyer is to learn how knots are described. This section covers the properties shared by cylindrical knots & interweaves. It includes Turk's Head, Pineapple, and Fan (Gaucho, Herringbone) as examples. 
 
