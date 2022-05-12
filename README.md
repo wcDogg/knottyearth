@@ -19,26 +19,27 @@ Because of the way numbers work in tables and file names, these conventions help
 
 ### [Knot Theory](.general/knot-theory.md)
 
-### [Cylindrical Knots](./cylindrical-knots/README.md)
+### [Cylindrical Knots](./cylindrical/README.md)
 
 A practical guide to the properties shared by cylindrical knots including Turk's Head, Fan, and Pineapple. 
 
-* [Knot vs Interweave](./cylindrical-knots/knot-vs-interweave.md)
-* [Bights, Parts, Crossings, Facets](./cylindrical-knots/bights-parts-crossings-facets.md)
-* [Columns, Rows, and Coding](./cylindrical-knots/column-row-coding.md)
-* [Nested & Shifted Bights](./cylindrical-knots/nested-shifted.md)
-* [Over-Under Pattern](./cylindrical-knots/over-under-pattern.md)
-* [How to Read Cylindrical Knot Instructions](./cylindrical-knots/cylindrical-instructions.md)
+* [Knot vs Interweave](./cylindrical/knot-vs-interweave.md)
+* [Bights, Parts, Crossings, Facets](./cylindrical/bights-parts-crossings-facets.md)
+* [Columns, Rows, and Coding](./cylindrical/column-row-coding.md)
+* [Nested & Shifted Bights](./cylindrical/nested-shifted.md)
+* [Over-Under Pattern](./cylindrical/over-under-pattern.md)
+* [How to Read Cylindrical Knot Instructions](./cylindrical/cylindrical-instructions.md)
 
-### [Turk's Head Knots](./turks-heak-knots/README.md)
-
-* []
-
-### [Fan Knots (Gaucho, Herringbone)](./fan-knots/README.md)
+### [Turk's Head Knots](./thk/README.md)
 
 * []
 
-### [Pineapple Knots](./pineapple-knots/README.md)
+### [Fan Knots (Gaucho, Herringbone)](./fan/README.md)
 
 * []
+
+### [Pineapple Knots](./pk/README.md)
+
+* [Pineapple Knot Type Reference](./pk/pk-type-reference.md)
+* []()
 
