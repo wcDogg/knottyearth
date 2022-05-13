@@ -11,6 +11,7 @@ drafts/
 *.userosscache
 *.sln.docstates
 venv
+temp
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs

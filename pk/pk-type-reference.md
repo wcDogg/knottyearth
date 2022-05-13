@@ -18,49 +18,49 @@ The following images introduce strands from dark to light. Notice that:
 
 One of the easiest Pineapples to recognize is when all the THKs are equally sizes and stacked like chairs. In this case, the type equals the number of strands (passes). From left to right these knots are type 2, 3, and 4.  
 
-![](../assets/images/pk_type-strands_alt.png)
+![](../assets/pk-types/pk_type-strands_alt.png)
 
-![](../assets/images/pk_type-strands.png)
+![](../assets/pk-types/pk_type-strands.png)
 
 ## Type 1
 
 Type 1 Pineapples are also easy to recognize - the darkest strand is 1 large THK surrounding smaller THKs. 
 
-![](../assets/images/pk_type-1_alt.png)
+![](../assets/pk-types/pk_type-1_alt.png)
 
-![](../assets/images/pk_type-1.png)
+![](../assets/pk-types/pk_type-1.png)
 
 ## Type 2
 
 A type 2 Pineapple has 2 equally sized and stacked THKs. Notice the smaller THKs in the 3 and 4 strand images. 
 
-![](../assets/images/pk_type-2_alt.png)
+![](../assets/pk-types/pk_type-2_alt.png)
 
-![](../assets/images/pk_type-2.png)
+![](../assets/pk-types/pk_type-2.png)
 
 ## Type 3
 
 A type 3 Pineapple has 3 equally sized and stacked THKs. Notice the smaller THK in the 4 strand image. 
 
-![](../assets/images/pk_type-3_alt.png)
+![](../assets/pk-types/pk_type-3_alt.png)
 
-![](../assets/images/pk_type-3.png)
+![](../assets/pk-types/pk_type-3.png)
 
 ## 2-Strand (Pass)
 
 Type 1, 2
 
-![](../assets/images/pk_2-strands.png)
+![](../assets/pk-types/pk_2-strands.png)
 
 ## 3-Strand (Pass)
 
 Type 1, 2, 3
 
-![](../assets/images/pk_3-strands.png)
+![](../assets/pk-types/pk_3-strands.png)
 
 ## 4-Strand (Pass)
 
 Type 1, 2, 3, 4
 
-![](../assets/images/pk_4-strands.png)
+![](../assets/pk-types/pk_4-strands.png)
 
