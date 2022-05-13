@@ -65,5 +65,3 @@ The following tables summarize mathematically possible bight-part combinations.
 | **`29`** | -- | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T |
 | **30** | X | -- | -- | -- | T | -- | T | -- | -- | -- | T | -- | T | -- | -- | -- | T | -- | T | -- |
 
-
-

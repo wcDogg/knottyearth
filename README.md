@@ -32,7 +32,8 @@ A practical guide to the properties shared by cylindrical knots including Turk's
 
 ### [Turk's Head Knots](./thk/README.md)
 
-* []
+* [Turk's Head Knot Size Reference](./thk/size-reference.md)
+* [Turk's Head Knot Reference Tables](./thk/reference-tables.md)
 
 ### [Fan Knots (Gaucho, Herringbone)](./fan/README.md)
 
