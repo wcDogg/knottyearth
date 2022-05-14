@@ -33,14 +33,13 @@ A practical guide to the properties shared by cylindrical knots including Turk's
 ### [Turk's Head Knots](./thk/README.md)
 
 * [Turk's Head Knot Size Reference](./thk/thk-size-reference.md)
-* [Turk's Head Knot Reference Tables](./thk/thk-reference-tables.md)
+* [Turk's Head Knot Reference Tables](./thk/thk-reference.md)
 
 ### [Fan Knots (Gaucho, Herringbone)](./fan/README.md)
 
-* []
+* [Fan Knot Reference Tables](./fan/fan-reference.md)
 
 ### [Pineapple Knots](./pk/README.md)
 
 * [Pineapple Knot Type Reference](./pk/pk-type-reference.md)
-* []()
 
