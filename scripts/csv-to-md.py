@@ -33,6 +33,8 @@ def csv_to_md_table(input, output, align='center', brow='true', bcol='false'):
     else:
       raise Exception("The `align` argument must be 'left', 'right', or 'center'.")
 
+    print(f'File in: %s' % input)
+
     # Create a list of dictionaries.
     with Path(input).open('r', encoding='utf-8') as source:
 
@@ -71,8 +73,10 @@ def csv_to_md_table(input, output, align='center', brow='true', bcol='false'):
             save.write(space + d[h] + space + pipe)
         save.write(nl)
 
+    print(f'File out: %s' % output)
+
   except Exception as e:
-    print('Oops! There was a problem.')
+    print(f'Error: %s' % input)
     print(e)
     return
   
@@ -80,6 +84,10 @@ def csv_to_md_table(input, output, align='center', brow='true', bcol='false'):
 # -----------------------------------
 # Tasks
 # -----------------------------------  
-csv_to_md_table(configure.CSV_THK, configure.TABLE_THK, 'center', 'true', 'true')
+csv_to_md_table(configure.CSV_THK, configure.MD_THK, 'center', 'true', 'false')
+csv_to_md_table(configure.CSV_FAN_2, configure.MD_FAN_2, 'center', 'true', 'false')
+csv_to_md_table(configure.CSV_FAN_3, configure.MD_FAN_3, 'center', 'true', 'false')
+csv_to_md_table(configure.CSV_FAN_4, configure.MD_FAN_4, 'center', 'true', 'false')
+csv_to_md_table(configure.CSV_FAN_5, configure.MD_FAN_5, 'center', 'true', 'false')
 
 

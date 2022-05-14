@@ -1,0 +1,1595 @@
+[
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "6",
+        "Columns": "6",
+        "Rows": "7",
+        "Xings": "15",
+        "Facets": "5"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "9",
+        "Columns": "6",
+        "Rows": "10",
+        "Xings": "24",
+        "Facets": "8"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "12",
+        "Columns": "6",
+        "Rows": "13",
+        "Xings": "33",
+        "Facets": "11"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "15",
+        "Columns": "6",
+        "Rows": "16",
+        "Xings": "42",
+        "Facets": "14"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "18",
+        "Columns": "6",
+        "Rows": "19",
+        "Xings": "51",
+        "Facets": "17"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "21",
+        "Columns": "6",
+        "Rows": "22",
+        "Xings": "60",
+        "Facets": "20"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "24",
+        "Columns": "6",
+        "Rows": "25",
+        "Xings": "69",
+        "Facets": "23"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "27",
+        "Columns": "6",
+        "Rows": "28",
+        "Xings": "78",
+        "Facets": "26"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "30",
+        "Columns": "6",
+        "Rows": "31",
+        "Xings": "87",
+        "Facets": "29"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "33",
+        "Columns": "6",
+        "Rows": "34",
+        "Xings": "96",
+        "Facets": "32"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "36",
+        "Columns": "6",
+        "Rows": "37",
+        "Xings": "105",
+        "Facets": "35"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "39",
+        "Columns": "6",
+        "Rows": "40",
+        "Xings": "114",
+        "Facets": "38"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "42",
+        "Columns": "6",
+        "Rows": "43",
+        "Xings": "123",
+        "Facets": "41"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "45",
+        "Columns": "6",
+        "Rows": "46",
+        "Xings": "132",
+        "Facets": "44"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "48",
+        "Columns": "6",
+        "Rows": "49",
+        "Xings": "141",
+        "Facets": "47"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "51",
+        "Columns": "6",
+        "Rows": "52",
+        "Xings": "150",
+        "Facets": "50"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "54",
+        "Columns": "6",
+        "Rows": "55",
+        "Xings": "159",
+        "Facets": "53"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "57",
+        "Columns": "6",
+        "Rows": "58",
+        "Xings": "168",
+        "Facets": "56"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "60",
+        "Columns": "6",
+        "Rows": "61",
+        "Xings": "177",
+        "Facets": "59"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "63",
+        "Columns": "6",
+        "Rows": "64",
+        "Xings": "186",
+        "Facets": "62"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "66",
+        "Columns": "6",
+        "Rows": "67",
+        "Xings": "195",
+        "Facets": "65"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "69",
+        "Columns": "6",
+        "Rows": "70",
+        "Xings": "204",
+        "Facets": "68"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "72",
+        "Columns": "6",
+        "Rows": "73",
+        "Xings": "213",
+        "Facets": "71"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "75",
+        "Columns": "6",
+        "Rows": "76",
+        "Xings": "222",
+        "Facets": "74"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "78",
+        "Columns": "6",
+        "Rows": "79",
+        "Xings": "231",
+        "Facets": "77"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "81",
+        "Columns": "6",
+        "Rows": "82",
+        "Xings": "240",
+        "Facets": "80"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "84",
+        "Columns": "6",
+        "Rows": "85",
+        "Xings": "249",
+        "Facets": "83"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "87",
+        "Columns": "6",
+        "Rows": "88",
+        "Xings": "258",
+        "Facets": "86"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "90",
+        "Columns": "6",
+        "Rows": "91",
+        "Xings": "267",
+        "Facets": "89"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "93",
+        "Columns": "6",
+        "Rows": "94",
+        "Xings": "276",
+        "Facets": "92"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "96",
+        "Columns": "6",
+        "Rows": "97",
+        "Xings": "285",
+        "Facets": "95"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "99",
+        "Columns": "6",
+        "Rows": "100",
+        "Xings": "294",
+        "Facets": "98"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "102",
+        "Columns": "6",
+        "Rows": "103",
+        "Xings": "303",
+        "Facets": "101"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "105",
+        "Columns": "6",
+        "Rows": "106",
+        "Xings": "312",
+        "Facets": "104"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "108",
+        "Columns": "6",
+        "Rows": "109",
+        "Xings": "321",
+        "Facets": "107"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "111",
+        "Columns": "6",
+        "Rows": "112",
+        "Xings": "330",
+        "Facets": "110"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "114",
+        "Columns": "6",
+        "Rows": "115",
+        "Xings": "339",
+        "Facets": "113"
+    },
+    {
+        "Strands": "3",
+        "Bights": "3",
+        "Parts": "117",
+        "Columns": "6",
+        "Rows": "118",
+        "Xings": "348",
+        "Facets": "116"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "9",
+        "Columns": "12",
+        "Rows": "10",
+        "Xings": "48",
+        "Facets": "16"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "15",
+        "Columns": "12",
+        "Rows": "16",
+        "Xings": "84",
+        "Facets": "28"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "21",
+        "Columns": "12",
+        "Rows": "22",
+        "Xings": "120",
+        "Facets": "40"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "27",
+        "Columns": "12",
+        "Rows": "28",
+        "Xings": "156",
+        "Facets": "52"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "33",
+        "Columns": "12",
+        "Rows": "34",
+        "Xings": "192",
+        "Facets": "64"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "39",
+        "Columns": "12",
+        "Rows": "40",
+        "Xings": "228",
+        "Facets": "76"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "45",
+        "Columns": "12",
+        "Rows": "46",
+        "Xings": "264",
+        "Facets": "88"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "51",
+        "Columns": "12",
+        "Rows": "52",
+        "Xings": "300",
+        "Facets": "100"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "57",
+        "Columns": "12",
+        "Rows": "58",
+        "Xings": "336",
+        "Facets": "112"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "63",
+        "Columns": "12",
+        "Rows": "64",
+        "Xings": "372",
+        "Facets": "124"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "69",
+        "Columns": "12",
+        "Rows": "70",
+        "Xings": "408",
+        "Facets": "136"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "75",
+        "Columns": "12",
+        "Rows": "76",
+        "Xings": "444",
+        "Facets": "148"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "81",
+        "Columns": "12",
+        "Rows": "82",
+        "Xings": "480",
+        "Facets": "160"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "87",
+        "Columns": "12",
+        "Rows": "88",
+        "Xings": "516",
+        "Facets": "172"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "93",
+        "Columns": "12",
+        "Rows": "94",
+        "Xings": "552",
+        "Facets": "184"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "99",
+        "Columns": "12",
+        "Rows": "100",
+        "Xings": "588",
+        "Facets": "196"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "105",
+        "Columns": "12",
+        "Rows": "106",
+        "Xings": "624",
+        "Facets": "208"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "111",
+        "Columns": "12",
+        "Rows": "112",
+        "Xings": "660",
+        "Facets": "220"
+    },
+    {
+        "Strands": "3",
+        "Bights": "6",
+        "Parts": "117",
+        "Columns": "12",
+        "Rows": "118",
+        "Xings": "696",
+        "Facets": "232"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "6",
+        "Columns": "18",
+        "Rows": "7",
+        "Xings": "45",
+        "Facets": "15"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "12",
+        "Columns": "18",
+        "Rows": "13",
+        "Xings": "99",
+        "Facets": "33"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "15",
+        "Columns": "18",
+        "Rows": "16",
+        "Xings": "126",
+        "Facets": "42"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "21",
+        "Columns": "18",
+        "Rows": "22",
+        "Xings": "180",
+        "Facets": "60"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "24",
+        "Columns": "18",
+        "Rows": "25",
+        "Xings": "207",
+        "Facets": "69"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "30",
+        "Columns": "18",
+        "Rows": "31",
+        "Xings": "261",
+        "Facets": "87"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "33",
+        "Columns": "18",
+        "Rows": "34",
+        "Xings": "288",
+        "Facets": "96"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "39",
+        "Columns": "18",
+        "Rows": "40",
+        "Xings": "342",
+        "Facets": "114"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "42",
+        "Columns": "18",
+        "Rows": "43",
+        "Xings": "369",
+        "Facets": "123"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "48",
+        "Columns": "18",
+        "Rows": "49",
+        "Xings": "423",
+        "Facets": "141"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "51",
+        "Columns": "18",
+        "Rows": "52",
+        "Xings": "450",
+        "Facets": "150"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "57",
+        "Columns": "18",
+        "Rows": "58",
+        "Xings": "504",
+        "Facets": "168"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "60",
+        "Columns": "18",
+        "Rows": "61",
+        "Xings": "531",
+        "Facets": "177"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "66",
+        "Columns": "18",
+        "Rows": "67",
+        "Xings": "585",
+        "Facets": "195"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "69",
+        "Columns": "18",
+        "Rows": "70",
+        "Xings": "612",
+        "Facets": "204"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "75",
+        "Columns": "18",
+        "Rows": "76",
+        "Xings": "666",
+        "Facets": "222"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "78",
+        "Columns": "18",
+        "Rows": "79",
+        "Xings": "693",
+        "Facets": "231"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "84",
+        "Columns": "18",
+        "Rows": "85",
+        "Xings": "747",
+        "Facets": "249"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "87",
+        "Columns": "18",
+        "Rows": "88",
+        "Xings": "774",
+        "Facets": "258"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "93",
+        "Columns": "18",
+        "Rows": "94",
+        "Xings": "828",
+        "Facets": "276"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "96",
+        "Columns": "18",
+        "Rows": "97",
+        "Xings": "855",
+        "Facets": "285"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "102",
+        "Columns": "18",
+        "Rows": "103",
+        "Xings": "909",
+        "Facets": "303"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "105",
+        "Columns": "18",
+        "Rows": "106",
+        "Xings": "936",
+        "Facets": "312"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "111",
+        "Columns": "18",
+        "Rows": "112",
+        "Xings": "990",
+        "Facets": "330"
+    },
+    {
+        "Strands": "3",
+        "Bights": "9",
+        "Parts": "114",
+        "Columns": "18",
+        "Rows": "115",
+        "Xings": "1017",
+        "Facets": "339"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "9",
+        "Columns": "24",
+        "Rows": "10",
+        "Xings": "96",
+        "Facets": "32"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "15",
+        "Columns": "24",
+        "Rows": "16",
+        "Xings": "168",
+        "Facets": "56"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "21",
+        "Columns": "24",
+        "Rows": "22",
+        "Xings": "240",
+        "Facets": "80"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "27",
+        "Columns": "24",
+        "Rows": "28",
+        "Xings": "312",
+        "Facets": "104"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "33",
+        "Columns": "24",
+        "Rows": "34",
+        "Xings": "384",
+        "Facets": "128"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "39",
+        "Columns": "24",
+        "Rows": "40",
+        "Xings": "456",
+        "Facets": "152"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "45",
+        "Columns": "24",
+        "Rows": "46",
+        "Xings": "528",
+        "Facets": "176"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "51",
+        "Columns": "24",
+        "Rows": "52",
+        "Xings": "600",
+        "Facets": "200"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "57",
+        "Columns": "24",
+        "Rows": "58",
+        "Xings": "672",
+        "Facets": "224"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "63",
+        "Columns": "24",
+        "Rows": "64",
+        "Xings": "744",
+        "Facets": "248"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "69",
+        "Columns": "24",
+        "Rows": "70",
+        "Xings": "816",
+        "Facets": "272"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "75",
+        "Columns": "24",
+        "Rows": "76",
+        "Xings": "888",
+        "Facets": "296"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "81",
+        "Columns": "24",
+        "Rows": "82",
+        "Xings": "960",
+        "Facets": "320"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "87",
+        "Columns": "24",
+        "Rows": "88",
+        "Xings": "1032",
+        "Facets": "344"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "93",
+        "Columns": "24",
+        "Rows": "94",
+        "Xings": "1104",
+        "Facets": "368"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "99",
+        "Columns": "24",
+        "Rows": "100",
+        "Xings": "1176",
+        "Facets": "392"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "105",
+        "Columns": "24",
+        "Rows": "106",
+        "Xings": "1248",
+        "Facets": "416"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "111",
+        "Columns": "24",
+        "Rows": "112",
+        "Xings": "1320",
+        "Facets": "440"
+    },
+    {
+        "Strands": "3",
+        "Bights": "12",
+        "Parts": "117",
+        "Columns": "24",
+        "Rows": "118",
+        "Xings": "1392",
+        "Facets": "464"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "6",
+        "Columns": "30",
+        "Rows": "7",
+        "Xings": "75",
+        "Facets": "25"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "9",
+        "Columns": "30",
+        "Rows": "10",
+        "Xings": "120",
+        "Facets": "40"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "12",
+        "Columns": "30",
+        "Rows": "13",
+        "Xings": "165",
+        "Facets": "55"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "18",
+        "Columns": "30",
+        "Rows": "19",
+        "Xings": "255",
+        "Facets": "85"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "21",
+        "Columns": "30",
+        "Rows": "22",
+        "Xings": "300",
+        "Facets": "100"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "24",
+        "Columns": "30",
+        "Rows": "25",
+        "Xings": "345",
+        "Facets": "115"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "27",
+        "Columns": "30",
+        "Rows": "28",
+        "Xings": "390",
+        "Facets": "130"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "33",
+        "Columns": "30",
+        "Rows": "34",
+        "Xings": "480",
+        "Facets": "160"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "36",
+        "Columns": "30",
+        "Rows": "37",
+        "Xings": "525",
+        "Facets": "175"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "39",
+        "Columns": "30",
+        "Rows": "40",
+        "Xings": "570",
+        "Facets": "190"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "42",
+        "Columns": "30",
+        "Rows": "43",
+        "Xings": "615",
+        "Facets": "205"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "48",
+        "Columns": "30",
+        "Rows": "49",
+        "Xings": "705",
+        "Facets": "235"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "51",
+        "Columns": "30",
+        "Rows": "52",
+        "Xings": "750",
+        "Facets": "250"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "54",
+        "Columns": "30",
+        "Rows": "55",
+        "Xings": "795",
+        "Facets": "265"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "57",
+        "Columns": "30",
+        "Rows": "58",
+        "Xings": "840",
+        "Facets": "280"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "63",
+        "Columns": "30",
+        "Rows": "64",
+        "Xings": "930",
+        "Facets": "310"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "66",
+        "Columns": "30",
+        "Rows": "67",
+        "Xings": "975",
+        "Facets": "325"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "69",
+        "Columns": "30",
+        "Rows": "70",
+        "Xings": "1020",
+        "Facets": "340"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "72",
+        "Columns": "30",
+        "Rows": "73",
+        "Xings": "1065",
+        "Facets": "355"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "78",
+        "Columns": "30",
+        "Rows": "79",
+        "Xings": "1155",
+        "Facets": "385"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "81",
+        "Columns": "30",
+        "Rows": "82",
+        "Xings": "1200",
+        "Facets": "400"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "84",
+        "Columns": "30",
+        "Rows": "85",
+        "Xings": "1245",
+        "Facets": "415"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "87",
+        "Columns": "30",
+        "Rows": "88",
+        "Xings": "1290",
+        "Facets": "430"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "93",
+        "Columns": "30",
+        "Rows": "94",
+        "Xings": "1380",
+        "Facets": "460"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "96",
+        "Columns": "30",
+        "Rows": "97",
+        "Xings": "1425",
+        "Facets": "475"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "99",
+        "Columns": "30",
+        "Rows": "100",
+        "Xings": "1470",
+        "Facets": "490"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "102",
+        "Columns": "30",
+        "Rows": "103",
+        "Xings": "1515",
+        "Facets": "505"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "108",
+        "Columns": "30",
+        "Rows": "109",
+        "Xings": "1605",
+        "Facets": "535"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "111",
+        "Columns": "30",
+        "Rows": "112",
+        "Xings": "1650",
+        "Facets": "550"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "114",
+        "Columns": "30",
+        "Rows": "115",
+        "Xings": "1695",
+        "Facets": "565"
+    },
+    {
+        "Strands": "3",
+        "Bights": "15",
+        "Parts": "117",
+        "Columns": "30",
+        "Rows": "118",
+        "Xings": "1740",
+        "Facets": "580"
+    },
+    {
+        "Strands": "3",
+        "Bights": "18",
+        "Parts": "15",
+        "Columns": "36",
+        "Rows": "16",
+        "Xings": "252",
+        "Facets": "84"
+    },
+    {
+        "Strands": "3",
+        "Bights": "18",
+        "Parts": "21",
+        "Columns": "36",
+        "Rows": "22",
+        "Xings": "360",
+        "Facets": "120"
+    },
+    {
+        "Strands": "3",
+        "Bights": "18",
+        "Parts": "33",
+        "Columns": "36",
+        "Rows": "34",
+        "Xings": "576",
+        "Facets": "192"
+    },
+    {
+        "Strands": "3",
+        "Bights": "18",
+        "Parts": "39",
+        "Columns": "36",
+        "Rows": "40",
+        "Xings": "684",
+        "Facets": "228"
+    },
+    {
+        "Strands": "3",
+        "Bights": "18",
+        "Parts": "51",
+        "Columns": "36",
+        "Rows": "52",
+        "Xings": "900",
+        "Facets": "300"
+    },
+    {
+        "Strands": "3",
+        "Bights": "18",
+        "Parts": "57",
+        "Columns": "36",
+        "Rows": "58",
+        "Xings": "1008",
+        "Facets": "336"
+    },
+    {
+        "Strands": "3",
+        "Bights": "18",
+        "Parts": "69",
+        "Columns": "36",
+        "Rows": "70",
+        "Xings": "1224",
+        "Facets": "408"
+    },
+    {
+        "Strands": "3",
+        "Bights": "18",
+        "Parts": "75",
+        "Columns": "36",
+        "Rows": "76",
+        "Xings": "1332",
+        "Facets": "444"
+    },
+    {
+        "Strands": "3",
+        "Bights": "18",
+        "Parts": "87",
+        "Columns": "36",
+        "Rows": "88",
+        "Xings": "1548",
+        "Facets": "516"
+    },
+    {
+        "Strands": "3",
+        "Bights": "18",
+        "Parts": "93",
+        "Columns": "36",
+        "Rows": "94",
+        "Xings": "1656",
+        "Facets": "552"
+    },
+    {
+        "Strands": "3",
+        "Bights": "18",
+        "Parts": "105",
+        "Columns": "36",
+        "Rows": "106",
+        "Xings": "1872",
+        "Facets": "624"
+    },
+    {
+        "Strands": "3",
+        "Bights": "18",
+        "Parts": "111",
+        "Columns": "36",
+        "Rows": "112",
+        "Xings": "1980",
+        "Facets": "660"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "6",
+        "Columns": "42",
+        "Rows": "7",
+        "Xings": "105",
+        "Facets": "35"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "9",
+        "Columns": "42",
+        "Rows": "10",
+        "Xings": "168",
+        "Facets": "56"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "12",
+        "Columns": "42",
+        "Rows": "13",
+        "Xings": "231",
+        "Facets": "77"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "15",
+        "Columns": "42",
+        "Rows": "16",
+        "Xings": "294",
+        "Facets": "98"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "18",
+        "Columns": "42",
+        "Rows": "19",
+        "Xings": "357",
+        "Facets": "119"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "24",
+        "Columns": "42",
+        "Rows": "25",
+        "Xings": "483",
+        "Facets": "161"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "27",
+        "Columns": "42",
+        "Rows": "28",
+        "Xings": "546",
+        "Facets": "182"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "30",
+        "Columns": "42",
+        "Rows": "31",
+        "Xings": "609",
+        "Facets": "203"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "33",
+        "Columns": "42",
+        "Rows": "34",
+        "Xings": "672",
+        "Facets": "224"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "36",
+        "Columns": "42",
+        "Rows": "37",
+        "Xings": "735",
+        "Facets": "245"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "39",
+        "Columns": "42",
+        "Rows": "40",
+        "Xings": "798",
+        "Facets": "266"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "45",
+        "Columns": "42",
+        "Rows": "46",
+        "Xings": "924",
+        "Facets": "308"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "48",
+        "Columns": "42",
+        "Rows": "49",
+        "Xings": "987",
+        "Facets": "329"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "51",
+        "Columns": "42",
+        "Rows": "52",
+        "Xings": "1050",
+        "Facets": "350"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "54",
+        "Columns": "42",
+        "Rows": "55",
+        "Xings": "1113",
+        "Facets": "371"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "57",
+        "Columns": "42",
+        "Rows": "58",
+        "Xings": "1176",
+        "Facets": "392"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "60",
+        "Columns": "42",
+        "Rows": "61",
+        "Xings": "1239",
+        "Facets": "413"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "66",
+        "Columns": "42",
+        "Rows": "67",
+        "Xings": "1365",
+        "Facets": "455"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "69",
+        "Columns": "42",
+        "Rows": "70",
+        "Xings": "1428",
+        "Facets": "476"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "72",
+        "Columns": "42",
+        "Rows": "73",
+        "Xings": "1491",
+        "Facets": "497"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "75",
+        "Columns": "42",
+        "Rows": "76",
+        "Xings": "1554",
+        "Facets": "518"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "78",
+        "Columns": "42",
+        "Rows": "79",
+        "Xings": "1617",
+        "Facets": "539"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "81",
+        "Columns": "42",
+        "Rows": "82",
+        "Xings": "1680",
+        "Facets": "560"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "87",
+        "Columns": "42",
+        "Rows": "88",
+        "Xings": "1806",
+        "Facets": "602"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "90",
+        "Columns": "42",
+        "Rows": "91",
+        "Xings": "1869",
+        "Facets": "623"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "93",
+        "Columns": "42",
+        "Rows": "94",
+        "Xings": "1932",
+        "Facets": "644"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "96",
+        "Columns": "42",
+        "Rows": "97",
+        "Xings": "1995",
+        "Facets": "665"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "99",
+        "Columns": "42",
+        "Rows": "100",
+        "Xings": "2058",
+        "Facets": "686"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "102",
+        "Columns": "42",
+        "Rows": "103",
+        "Xings": "2121",
+        "Facets": "707"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "108",
+        "Columns": "42",
+        "Rows": "109",
+        "Xings": "2247",
+        "Facets": "749"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "111",
+        "Columns": "42",
+        "Rows": "112",
+        "Xings": "2310",
+        "Facets": "770"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "114",
+        "Columns": "42",
+        "Rows": "115",
+        "Xings": "2373",
+        "Facets": "791"
+    },
+    {
+        "Strands": "3",
+        "Bights": "21",
+        "Parts": "117",
+        "Columns": "42",
+        "Rows": "118",
+        "Xings": "2436",
+        "Facets": "812"
+    }
+]
